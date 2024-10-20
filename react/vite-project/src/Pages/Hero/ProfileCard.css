@@ -1,0 +1,36 @@
+*{box-sizing: content-box;
+align-items: center;
+}
+
+figure{
+    padding: 30px;
+     align-items: center;
+flex-wrap: wrap;
+}
+
+
+
+.profileImage{width: 500px;
+    height: 350px;
+    align-items: center;
+object-fit: contain;}
+
+.card1 { margin-left: 350px;
+    align-items: center;
+background-color: rgb(145, 255, 0);}
+.card1 :hover { background-color: black;
+    color: white;}
+
+.card2{
+    margin-left: 350px;
+    align-items: center;
+    background-color: bisque}
+
+    .card2 :hover { background-color: black;
+    color: white;}
+    
+.card3 { margin-left: 350px;
+    align-items: center;
+    background-color: green;}
+    .card3 :hover { background-color: black;
+        color: white;}
